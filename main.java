@@ -22,7 +22,7 @@ public class main {
     }
 
     public static void main(String[] args) {
-        String end = "src/algoritmosgulososapa/dij50.txt";
+        String end = "src/algoritmosgulososapa/entrada.txt";
 
         obterDados(end);
 
